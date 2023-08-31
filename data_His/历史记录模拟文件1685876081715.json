@@ -1,0 +1,92 @@
+[
+  {
+    "start_time": "2020-04-22T15:09:44.377Z",
+    "end_time": "2020-11-12T20:34:01.110Z",
+    "userId": "647c640729bc75dd854a3d92",
+    "roomId": "6447f4abf8b1147f5f44f143",
+    "roomName": "room-0",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  },
+  {
+    "start_time": "2020-05-26T21:09:10.173Z",
+    "end_time": "2021-06-07T19:28:51.510Z",
+    "userId": "647c63cc955d8cb3c60cfa72",
+    "roomId": "6447f4abf8b1147f5f44f144",
+    "roomName": "room-1",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  },
+  {
+    "start_time": "2020-09-13T03:40:53.074Z",
+    "end_time": "2022-12-20T07:26:30.063Z",
+    "userId": "647c640729bc75dd854a3d8e",
+    "roomId": "6447f4abf8b1147f5f44f143",
+    "roomName": "room-2",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  },
+  {
+    "start_time": "2020-02-27T08:08:41.511Z",
+    "end_time": "2021-02-18T23:52:06.839Z",
+    "userId": "647c63cc955d8cb3c60cfa70",
+    "roomId": "647ad6aacd7513b6900a8f5c",
+    "roomName": "room-3",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  },
+  {
+    "start_time": "2021-01-07T11:29:31.675Z",
+    "end_time": "2021-02-05T05:34:13.135Z",
+    "userId": "647c63cc955d8cb3c60cfa71",
+    "roomId": "6447f4abf8b1147f5f44f141",
+    "roomName": "room-4",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  },
+  {
+    "start_time": "2021-03-31T21:02:03.354Z",
+    "end_time": "2021-05-05T20:26:32.726Z",
+    "userId": "647c63cc955d8cb3c60cfa6c",
+    "roomId": "6447f4abf8b1147f5f44f142",
+    "roomName": "room-5",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  },
+  {
+    "start_time": "2023-03-06T20:25:35.046Z",
+    "end_time": "2023-03-26T04:24:05.818Z",
+    "userId": "647c640729bc75dd854a3d8b",
+    "roomId": "647ad871cd7513b6900a8f62",
+    "roomName": "room-6",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  },
+  {
+    "start_time": "2021-12-09T13:55:40.771Z",
+    "end_time": "2022-08-17T04:56:53.413Z",
+    "userId": "647c640729bc75dd854a3d90",
+    "roomId": "6447f4abf8b1147f5f44f141",
+    "roomName": "room-7",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  },
+  {
+    "start_time": "2022-12-19T00:23:28.034Z",
+    "end_time": "2023-06-01T06:54:10.863Z",
+    "userId": "647c63cc955d8cb3c60cfa72",
+    "roomId": "647ad871cd7513b6900a8f62",
+    "roomName": "room-8",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  },
+  {
+    "start_time": "2021-04-18T12:16:13.109Z",
+    "end_time": "2021-06-15T09:25:24.609Z",
+    "userId": "647c63cc955d8cb3c60cfa72",
+    "roomId": "6447f4abf8b1147f5f44f144",
+    "roomName": "room-9",
+    "createdAt": "2023-06-04T10:54:41.715Z",
+    "updatedAt": "2023-06-04T10:54:41.715Z"
+  }
+]

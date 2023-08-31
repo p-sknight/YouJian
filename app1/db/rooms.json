@@ -1,0 +1,64 @@
+[
+{
+  "name": "隔间室",
+  "description": "单个座位分隔开，你可以一整天沉浸在自己的世界里",
+  "time": "7:00-23:00",
+  "img_url": "http://175.178.87.164:8888/down/GFmlHSDsY60D",
+  "__v": 20,
+  "total_seats": 20,
+  "now_seats": 20,
+  "no":"M01"
+},
+{
+
+  "name": "电脑室",
+  "description": "你可以在这里听到美妙的键盘与鼠标的滴答声",
+  "time": "7:00-:23:00",
+  "img_url": "http://175.178.87.164:8888/down/aLt7mcGaoixU",
+  "__v": 20,
+  "total_seats": 20,
+  "now_seats": 2,
+  "no":"X006"
+
+
+},
+{
+
+  "name": "朗读室",
+  "description": "看不进去，记不住，试试把它读出来吧！",
+  "time": "7:00-23:00",
+  "img_url": "http://175.178.87.164:8888/down/Hdx9Z1EFXrZ8",
+  "__v": 20,
+  "total_seats": 20,
+  "now_seats": 15,
+  "no":"S001"
+
+
+},
+{
+
+  "name": "研讨室",
+  "description": "一起在探究点什么吧",
+  "time": "7:00-23:00",
+  "img_url": "http://175.178.87.164:8888/down/ISI5KijjYeSM",
+  "__v": 20,
+  "total_seats": 20,
+  "now_seats": 5,
+  "no":"S006"
+
+
+},
+{
+
+  "name": "阅览室",
+  "description": "沉浸在书籍的海洋里吧",
+  "time": "7:00-23:00",
+  "img_url": "http://175.178.87.164:8888/down/sLfLhX9gsFQK",
+  "__v": 20,
+  "total_seats": 20,
+  "now_seats": 20,
+  "no":"M22"
+
+
+ 
+}]
